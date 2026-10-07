@@ -13,3 +13,8 @@ A lightweight Python CLI tool that inspects local Git changes and runs AI-assist
    ```bash
    git clone [https://github.com/your-username/ai-code-reviewer.git](https://github.com/your-username/ai-code-reviewer.git)
    cd ai-code-reviewer
+
+## Run commands
+```bash
+   python3 -m reviewer.cli
+   python3 -m reviewer.cli --staged
