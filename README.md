@@ -18,3 +18,9 @@ A lightweight Python CLI tool that inspects local Git changes and runs AI-assist
 ```bash
    python3 -m reviewer.cli
    python3 -m reviewer.cli --staged
+```
+
+## Run test
+```bash
+   python3 -m pytest
+```
