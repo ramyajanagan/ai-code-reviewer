@@ -1,4 +1,3 @@
-import pytest
 from unittest.mock import patch, MagicMock
 from reviewer.git_utils import get_git_diff
 from reviewer.review_engine import analyze_diff
